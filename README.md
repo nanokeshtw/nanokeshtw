@@ -1,10 +1,10 @@
-<div style="text-align: center;">
+<div align="center">
   <img src="HTW.png" alt="Nanokeshtw Avatar" style="border-radius: 10px;" height="80px"></img>
   
   # Hey There, I'm Gavin :wave:
 </div>
 
-I'm a software engineering student at the Rochester Institute of Technology and the founder of Present Systems. <small style="color: #CE422B">I am also a proud rustacean :crab:</small>
+I'm a software engineering student at the Rochester Institute of Technology and co-founder of Eventify Apps. <sup><sub>I am also a proud rustacean 🦀<sub></sup>
 
 ![Rust Compile Error](rust_error.png)
 
