@@ -4,7 +4,7 @@
   # Hey There, I'm Gavin :wave:
 </div>
 
-I'm a software engineering student at the Rochester Institute of Technology and the founder of Present Systems. [<small style="color: #CE422B">I am also a proud rustacean :crab:</small>](https://www.rust-lang.org/)
+I'm a software engineering student at the Rochester Institute of Technology and the founder of Present Systems. <small style="color: #CE422B">I am also a proud rustacean :crab:</small>
 
 ![Rust Compile Error](rust_error.png)
 
