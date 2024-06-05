@@ -44,3 +44,9 @@ I am a software engineering student and social entrepreneur who loves to learn a
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanokeshtw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavin-noktes)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16148344/nanokeshtw)
+
+---
+
+With The Ferosity Of :worm:
+
+- [x] Gavin Noktes
