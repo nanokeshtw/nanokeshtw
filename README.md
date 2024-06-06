@@ -11,7 +11,7 @@ I'm a software engineering student at the Rochester Institute of Technology and 
 ## About Me :metal:
 
 ```rust
-fn main {
+fn main() {
   let location: Location = "Rochester, NY 🇺🇸".into();
   let experience: u8 = parse_experience!("3+ years 👨‍💻");
   let contact: Contact = Contact::Email("nanokeshtw@gmail.com 📫");
