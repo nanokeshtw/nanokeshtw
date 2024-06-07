@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Gavin.png" alt="Nanokeshtw Avatar" style="border-radius: 10px;" height="80px"></img>
+  <img src="Gavin.png" alt="Nanokeshtw Avatar" style="border-radius: 10px;" height="200px"></img>
   
   # Hey There, I'm Gavin :wave:
 </div>
